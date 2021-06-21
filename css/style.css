@@ -26,6 +26,7 @@
     font-size: 18px;
     font-weight: bold;
 }
+
 .date, .didascalia{
     font-size: 12px;
 }
@@ -35,3 +36,6 @@
     text-decoration-line: none;
 }
 
+.text-special{
+    background-color: yellow;
+}
