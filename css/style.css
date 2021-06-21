@@ -1,11 +1,19 @@
+.container{
+    width: 60%;
+    margin: auto;
+}
+
 .header-row{
    background-color: #4EA0FF;
    background-image: url("../img/pattern.png");
    background-repeat: repeat;
    height: 200px;
-
 }
    
 .logo-img img{
     width: 200px;
+}
+
+#title{
+    font-size: 40px;
 }
