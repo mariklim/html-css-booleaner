@@ -18,6 +18,19 @@
     font-size: 40px;
 }
 
+.copyright, .date{
+    color: grey;
+}
+
+.copyright{
+    font-size: 18px;
+    font-weight: bold;
+}
 .date{
     font-size: 12px;
+}
+
+.link{
+    color:#20A9E5;
+    text-decoration-line: none;
 }
