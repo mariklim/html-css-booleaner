@@ -42,4 +42,9 @@
 
 thead{
     background-color: #20A9E5;
+    color: white;
+}
+
+.tr-blue{
+    background-color: #B1E5F2;
 }
